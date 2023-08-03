@@ -1,0 +1,66 @@
+/* 1st layout of the page (TOP) */
+
+.main-container1{
+        width: 100%;
+        height: 500px;
+        /* background-image: url(https://c8.alamy.com/comp/2AY03K2/panoramic-aerial-view-of-munich-central-square-with-town-hall-and-frauenkirche-church-travel-and-sightseeing-landmarks-in-germany-2AY03K2.jpg); */
+        background-repeat: no-repeat;
+        background-size: cover;
+        /* opacity: 0.5; */
+    }
+    .opacity{
+        opacity: 0.4;
+    }
+    .left1{
+        position: absolute;
+        top: 100px;
+        left: 100px;
+        width: 600px;
+    }
+    .heading1{
+        font-size: 50px;
+    }
+    /* .btn1{
+        padding: 10px;
+    } */
+    .btn-L1{
+        padding: 15px 30px;
+        background-color: rgb(16, 209, 145);
+        color: whitesmoke;
+        border: none;
+        border-radius: 5px;
+    }
+    .btn-L2{
+        padding: 15px 30px;
+        background-color: whitesmoke;
+        color: black;
+        margin-left: 15px;
+        border: none;
+        border-radius: 5px;
+    }
+
+    .img1-right{
+        position: absolute;
+        top: 100px;
+        right: 300px;
+        backface-visibility: hidden;
+        
+    }
+
+/* 2nd page of the layout :start */
+
+.main-container2{
+    height: 400px;
+    width: 100%;
+}
+.left2{
+    float: left;
+    width: 40%;
+    padding: 50px 50px;
+}
+.right2{
+    float: right;
+    width: 40%;
+    padding: 50px 50px;
+}
+

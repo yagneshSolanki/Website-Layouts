@@ -1,0 +1,98 @@
+*body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    border: 5px solid black;
+}
+/* Upper layout of the page */
+
+.container1{
+    background-color: rgb(62, 62, 233);
+    height: 600px;
+}
+
+.left1{
+    float: left;
+    width: 40%;
+    padding: 110px 70px;
+    color: whitesmoke;
+}
+.heading1{
+    font-size: 25px;
+}
+.btn{
+    background-color: whitesmoke;
+    color: blue;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+}
+.icon1{
+    margin-left: 20px;
+}
+.span1{
+    margin-left: 20px;
+}
+
+.img1-right{
+    float: right;
+    width: 40%;
+    padding: 95px 65px;
+}
+
+/* Bottom layout of the pages */
+
+.container2{
+    height: 600px;
+    background-color: whitesmoke;
+    clear: both;
+}
+
+.img2-left{
+    float: left;
+    width: 40%;
+    padding: 100px 80px;
+}
+
+.heading2{
+    font-size: 25px;
+}
+.nav{
+    padding: 10px 10px;
+    background-color: gainsboro;
+}
+.btn1{
+    background-color: blue;
+    color: whitesmoke;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+.btn2{
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    margin-left: 20px;
+    border: none;
+    border-radius: 5px;
+}
+.btn3{
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    margin-left: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.right2{
+    float: right;
+    width: 40%;
+    padding: 80px 67px;
+}
+.contaniner-right{
+    padding: 10px;
+}
+
+

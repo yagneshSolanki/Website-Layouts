@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Entire body css start */
+body {
+    /* background-color: #252424; */
+    /* color: whitesmoke; */
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+/* NAV-BAR START */
+
+.header{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(182, 81, 81);
+    border: 2px solid red;
+    border: none;
+    border-radius: 5px 0px 5px 0pxs;
+}
+nav{
+    display: inline-block;
+}
+
+li{
+    display: inline-block;
+    
+}
